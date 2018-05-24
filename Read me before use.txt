@@ -11,7 +11,13 @@ It will create a folder named SODbackups in your documents folder to store your 
 Backing up will overwrite the previous backup you have saved in this location.
 
 This has been tested and ran flawlessly by myself and 2 others on 5/24/18
-If you have any questions feel free to add my twitter (Twitter button in app)
+but BE WARNED the buttons will overwrite/replace your current game save and cannot be undone
+so make sure you use them in the correct order (Backup before restore)
+If you restore without a backup it may erase your game save.
+If you have any questions feel free to msg me on twitter (Twitter button in app)
+
+If you want a preview on how it works
+https://youtu.be/pFCl1-at0IU
 
 
 Thanks for checking out the program! -Killjoy
