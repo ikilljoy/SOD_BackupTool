@@ -1,0 +1,18 @@
+--THIS PROGRAM WILL ONLY FUNCTION IF RAN WITH ADMIN RIGHTS---
+--THIS PROGRAM WILL ONLY FUNCTION IF RAN WITH ADMIN RIGHTS---
+--THIS PROGRAM WILL ONLY FUNCTION IF RAN WITH ADMIN RIGHTS---
+
+The original exe must be kept inside the main folder with the 2 bat files. (backup & restore)
+if you'd like to move it for ease of acess you can create a shortcut to place anywhere.
+
+this file is 100% open source Freeware - no nags, no ads and fully functional.
+The menu is simply a basic vbs project that opens the bat files which copies a backup of your game save.
+It will create a folder named SODbackups in your documents folder to store your backups,
+Backing up will overwrite the previous backup you have saved in this location.
+
+This has been tested and ran flawlessly by myself and 2 others on 5/24/18
+If you have any questions feel free to add my twitter (Twitter button in app)
+
+
+Thanks for checking out the program! -Killjoy
+
